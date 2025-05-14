@@ -1,4 +1,4 @@
-# SPO | Self-Supervised Prompt Optimization <img src="../../docs/resources/spo/SPO-logo.png" width="60" height="60" style="vertical-align: middle; margin-left: 10px; position: relative; top: -5px;">
+# SPO | Self-Supervised Prompt Optimization <img src="assert/SPO-logo.png" width="60" height="60" style="vertical-align: middle; margin-left: 10px; position: relative; top: -5px;">
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2502.06855)
 [![Demo](https://img.shields.io/badge/Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/XiangJinYu/SPO)
@@ -9,7 +9,7 @@ An automated prompt engineering tool for Large Language Models (LLMs), designed 
 A next-generation prompt engineering system implementing **Self-Supervised Prompt Optimization (SPO)**. Achieves state-of-the-art performance with 17.8-90.9× higher cost efficiency than conventional methods. 🚀
 
 <p align="center">
-<a href=""><img src="../../docs/resources/spo/SPO-method.png" alt="Framework of SPO" title="Framework of SPO <sub>1</sub>" width="80%"></a>
+<a href=""><img src="assert/SPO-method.png" alt="Framework of SPO" title="Framework of SPO <sub>1</sub>" width="80%"></a>
 </p>
 
 ## ✨ Core Advantages
@@ -30,15 +30,15 @@ A next-generation prompt engineering system implementing **Self-Supervised Promp
 
 ###  Closed Tasks
 <p align="center">
-<a href=""><img src="../../docs/resources/spo/SPO-closed_task_table.png" alt="SPO closed task table" title="SPO closed task table <sub>1</sub>" width="80%"></a>
-<a href=""><img src="../../docs/resources/spo/SPO-closed_task_figure.png" alt="SPO closed task figure" title="SPO closed task figure <sub>1</sub>" width="80%"></a>
+<a href=""><img src="assert/SPO-closed_task_table.png" alt="SPO closed task table" title="SPO closed task table <sub>1</sub>" width="80%"></a>
+<a href=""><img src="assert/SPO-closed_task_figure.png" alt="SPO closed task figure" title="SPO closed task figure <sub>1</sub>" width="80%"></a>
 </p>
 
 *SPO demonstrates superior cost efficiency, requiring only 1.1% to 5.6% of the cost of state-of-the-art methods while maintaining competitive performance.*
 
 ### Open-ended Tasks
 <p align="center">
-<a href=""><img src="../../docs/resources/spo/SPO-open_ended_task_figure.png" alt="Open-ended task figure" title="Open-ended task figure <sub>1</sub>" width="80%"></a>
+<a href=""><img src="assert/SPO-open_ended_task_figure.png" alt="Open-ended task figure" title="Open-ended task figure <sub>1</sub>" width="80%"></a>
 </p>
 
 *SPO significantly improves model performance across all model configurations in open-ended tasks.*
