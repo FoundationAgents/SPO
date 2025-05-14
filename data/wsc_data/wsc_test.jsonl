@@ -1,0 +1,150 @@
+{"input": "This book introduced Shakespeare to Ovid; it was a fine selection of his writing. What does the pronoun \"his\" refer to?\n(A) Shakespeare\n(B) Ovid", "output": "(B)"}
+{"input": "John hired Bill to take care of him . What does the pronoun \"him\" refer to?\n(A) John\n(B) Bill", "output": "(A)"}
+{"input": "John was doing research in the library when he heard a man humming and whistling. He was very annoyed. What does the pronoun \"He\" refer to?\n(A) John\n(B) The man", "output": "(A)"}
+{"input": "Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her. What does the pronoun \"it\" refer to?\n(A) The sweater\n(B) The jacket", "output": "(A)"}
+{"input": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely. What does the pronoun \"she\" refer to?\n(A) Alice\n(B) Alice's daughter", "output": "(A)"}
+{"input": "If the con artist has succeeded in fooling Sam, he would have gotten a lot of money. What does the pronoun \"he\" refer to?\n(A) The con artist\n(B) Sam", "output": "(A)"}
+{"input": "James asked Robert for a favor but he refused. What does the pronoun \"he\" refer to?\n(A) James\n(B) Robert", "output": "(B)"}
+{"input": "Bill passed the half-empty plate to John because he was hungry. What does the pronoun \"he\" refer to?\n(A) Bill\n(B) John", "output": "(B)"}
+{"input": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped. What does the pronoun \"them\" refer to?\n(A) His eyes\n(B) His hands", "output": "(B)"}
+{"input": "Tom gave Ralph a lift to school so he wouldn't have to drive alone. What does the pronoun \"he\" refer to?\n(A) Tom\n(B) Ralph", "output": "(A)"}
+{"input": "Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly. What does the pronoun \"she\" refer to?\n(A) Alice\n(B) Jade", "output": "(A)"}
+{"input": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks. What does the pronoun \"They\" refer to?\n(A) Archaeologists\n(B) Prehistoric humans", "output": "(A)"}
+{"input": "I stuck a pin through a carrot. When I pulled the pin out, it left a hole. What does the pronoun \"it\" refer to?\n(A) The pin\n(B) The carrot", "output": "(A)"}
+{"input": "Jane gave Joan candy because she wasn't hungry. What does the pronoun \"she\" refer to?\n(A) Jane\n(B) Joan", "output": "(A)"}
+{"input": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it. What does the pronoun \"They\" refer to?\n(A) Pam's parents\n(B) Pam and Paul", "output": "(A)"}
+{"input": "The path to the lake was blocked, so we couldn't reach it . What does the pronoun \"it\" refer to?\n(A) The path\n(B) The lake", "output": "(B)"}
+{"input": "Frank was upset with Tom because the toaster he had sold him didn't work. What does the pronoun \"he\" refer to?\n(A) Frank\n(B) Tom", "output": "(B)"}
+{"input": "Since it was raining, I carried the newspaper over my backpack to keep it dry. What does the pronoun \"it\" refer to?\n(A) The newspaper\n(B) The backpack", "output": "(B)"}
+{"input": "Billy cried because Toby wouldn't share his toy. What does the pronoun \"his\" refer to?\n(A) Billy\n(B) Toby", "output": "(B)"}
+{"input": "Susan knows all about Ann's personal problems because she is indiscreet. What does the pronoun \"she\" refer to?\n(A) Susan\n(B) Ann", "output": "(B)"}
+{"input": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them . What does the pronoun \"them\" refer to?\n(A) copies of the newsletter\n(B) chairs", "output": "(A)"}
+{"input": "Madonna fired her trainer because she slept with her boyfriend. What does the pronoun \"she\" refer to?\n(A) Madonna\n(B) The trainer", "output": "(B)"}
+{"input": "As Ollie carried Tommy up the long winding steps, his legs ached. What does the pronoun \"his\" refer to?\n(A) Ollie\n(B) Tommy", "output": "(A)"}
+{"input": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work. What does the pronoun \"it\" refer to?\n(A) The book\n(B) The article", "output": "(B)"}
+{"input": "Bob paid for Charlie's college education. He is very generous. What does the pronoun \"He\" refer to?\n(A) Bob\n(B) Charlie", "output": "(A)"}
+{"input": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy. What does the pronoun \"he\" refer to?\n(A) Jim\n(B) the guy in uniform", "output": "(A)"}
+{"input": "Joan made sure to thank Susan for all the help she had given. What does the pronoun \"she\" refer to?\n(A) Joan\n(B) Susan", "output": "(B)"}
+{"input": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. What does the pronoun \"He\" refer to?\n(A) The customer\n(B) The teller", "output": "(B)"}
+{"input": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it. What does the pronoun \"They\" refer to?\n(A) Pam's parents\n(B) Pam and Paul", "output": "(B)"}
+{"input": "If the con artist has succeeded in fooling Sam, he would have lost a lot of money. What does the pronoun \"he\" refer to?\n(A) The con artist\n(B) Sam", "output": "(B)"}
+{"input": "We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim. What does the pronoun \"it\" refer to?\n(A) The lake\n(B) The ocean beach", "output": "(B)"}
+{"input": "I used an old rag to clean the knife, and then I put it in the drawer. What does the pronoun \"it\" refer to?\n(A) The rag\n(B) The knife", "output": "(B)"}
+{"input": "The father carried the sleeping boy in his arms What does the pronoun \"his\" refer to?\n(A) The father\n(B) The boy", "output": "(A)"}
+{"input": "Fred watched TV while George went out to buy groceries. After an hour he got up. What does the pronoun \"he\" refer to?\n(A) Fred\n(B) George", "output": "(A)"}
+{"input": "Tom threw his schoolbag down to Ray after he reached the bottom of the stairs. What does the pronoun \"he\" refer to?\n(A) Tom\n(B) Ray", "output": "(B)"}
+{"input": "The older students were bullying the younger ones, so we punished them . What does the pronoun \"them\" refer to?\n(A) The older students\n(B) The younger students", "output": "(A)"}
+{"input": "There is a pillar between me and the stage, and I can't see around it . What does the pronoun \"it\" refer to?\n(A) The pillar\n(B) The stage", "output": "(A)"}
+{"input": "Billy cried because Toby wouldn't accept his toy. What does the pronoun \"his\" refer to?\n(A) Billy\n(B) Toby", "output": "(A)"}
+{"input": "The man couldn't lift his son because he was so heavy. What does the pronoun \"he\" refer to?\n(A) The man\n(B) The son", "output": "(B)"}
+{"input": "John ordered Bill to leave, so an hour later he left. What does the pronoun \"he\" refer to?\n(A) John\n(B) Bill", "output": "(B)"}
+{"input": "Sam's drawing was hung just above Tina's and it did look much better with another one above it. What does the pronoun \"it\" refer to?\n(A) Sam's drawing\n(B) Tina's drawing", "output": "(B)"}
+{"input": "The lawyer asked the witness a question, but he was reluctant to repeat it. What does the pronoun \"he\" refer to?\n(A) the lawyer\n(B) the witness", "output": "(A)"}
+{"input": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase. What does the pronoun \"It\" refer to?\n(A) The painting\n(B) The oak tree", "output": "(A)"}
+{"input": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look. What does the pronoun \"him\" refer to?\n(A) Tommy\n(B) Timmy", "output": "(B)"}
+{"input": "Susan knew that Ann's son had been in a car accident, because she told her about it. What does the pronoun \"she\" refer to?\n(A) Susan\n(B) Ann", "output": "(B)"}
+{"input": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years. What does the pronoun \"he\" refer to?\n(A) Thomson\n(B) Cooper", "output": "(A)"}
+{"input": "Jim comforted Kevin because he was so upset. What does the pronoun \"he\" refer to?\n(A) Jim\n(B) Kevin", "output": "(B)"}
+{"input": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim. What does the pronoun \"it\" refer to?\n(A) The lake\n(B) The ocean beach", "output": "(A)"}
+{"input": "Dr. Adams informed Kate that she had cancer and presented several options for future treatment. What does the pronoun \"she\" refer to?\n(A) Dr. Adams\n(B) Kate", "output": "(B)"}
+{"input": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition. What does the pronoun \"he\" refer to?\n(A) Frank\n(B) Bill", "output": "(B)"}
+{"input": "Paul tried to call George on the phone, but he wasn't successful. What does the pronoun \"he\" refer to?\n(A) Paul\n(B) George", "output": "(A)"}
+{"input": "Bob paid for Charlie's college education. He is very grateful. What does the pronoun \"He\" refer to?\n(A) Bob\n(B) Charlie", "output": "(B)"}
+{"input": "I couldn't put the pot on the shelf because it was too high. What does the pronoun \"it\" refer to?\n(A) The pot\n(B) The shelf", "output": "(B)"}
+{"input": "Jim signaled the barman and gestured toward his bathroom key. What does the pronoun \"his\" refer to?\n(A) Jim\n(B) The barman", "output": "(B)"}
+{"input": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. What does the pronoun \"They\" refer to?\n(A) The sponsors\n(B) The opponents", "output": "(B)"}
+{"input": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time. What does the pronoun \"he\" refer to?\n(A) Adam\n(B) Bob", "output": "(A)"}
+{"input": "The father carried the sleeping boy in his bassinet. What does the pronoun \"his\" refer to?\n(A) The father\n(B) The boy", "output": "(B)"}
+{"input": "During a game of tag, Ethan chased Luke because he was \"it\". What does the pronoun \"he\" refer to?\n(A) Ethan\n(B) Luke", "output": "(A)"}
+{"input": "Lily spoke to Donna, breaking her silence. What does the pronoun \"her\" refer to?\n(A) Lily\n(B) Donna", "output": "(A)"}
+{"input": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time. What does the pronoun \"he\" refer to?\n(A) Adam\n(B) Bob", "output": "(B)"}
+{"input": "Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well. What does the pronoun \"They\" refer to?\n(A) People\n(B) Paul's books", "output": "(B)"}
+{"input": "The large ball crashed right through the table because it was made of steel. What does the pronoun \"it\" refer to?\n(A) The large ball\n(B) The table", "output": "(A)"}
+{"input": "The foxes are getting in at night and attacking the chickens. They have gotten very nervous. What does the pronoun \"They\" refer to?\n(A) The foxes\n(B) The chickens", "output": "(B)"}
+{"input": "There is a gap in the wall. You can see the garden through it . What does the pronoun \"it\" refer to?\n(A) The gap\n(B) The wall", "output": "(A)"}
+{"input": "Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition. What does the pronoun \"he\" refer to?\n(A) Frank\n(B) Bill", "output": "(A)"}
+{"input": "I poured water from the bottle into the cup until it was full. What does the pronoun \"it\" refer to?\n(A) the bottle\n(B) the cup", "output": "(B)"}
+{"input": "John hired himself out to Bill to take care of him . What does the pronoun \"him\" refer to?\n(A) John\n(B) Bill", "output": "(B)"}
+{"input": "Sam pulled up a chair to the piano, but it was broken, so he had to sing instead. What does the pronoun \"it\" refer to?\n(A) The chair\n(B) The piano", "output": "(B)"}
+{"input": "There is a pillar between me and the stage, and I can't see it . What does the pronoun \"it\" refer to?\n(A) The pillar\n(B) The stage", "output": "(B)"}
+{"input": "Ann asked Mary what time the library closes, because she had forgotten. What does the pronoun \"she\" refer to?\n(A) Ann\n(B) Mary", "output": "(A)"}
+{"input": "This book introduced Shakespeare to Goethe; it was a major influence on his writing. What does the pronoun \"his\" refer to?\n(A) Shakespeare\n(B) Goethe", "output": "(B)"}
+{"input": "Jane knocked on Susan's door but she did not get an answer. What does the pronoun \"she\" refer to?\n(A) Jane\n(B) Susan", "output": "(A)"}
+{"input": "The lawyer asked the witness a question, but he was reluctant to answer it. What does the pronoun \"he\" refer to?\n(A) the lawyer\n(B) the witness", "output": "(B)"}
+{"input": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in. What does the pronoun \"it\" refer to?\n(A) The key\n(B) The chewing gum", "output": "(A)"}
+{"input": "Anne gave birth to a daughter last month. She is a very charming woman. What does the pronoun \"She\" refer to?\n(A) Anne\n(B) Anne's daughter", "output": "(A)"}
+{"input": "I stuck a pin through a carrot. When I pulled the pin out, it had a hole. What does the pronoun \"it\" refer to?\n(A) The pin\n(B) The carrot", "output": "(B)"}
+{"input": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful. What does the pronoun \"He\" refer to?\n(A) Mark\n(B) Pete", "output": "(A)"}
+{"input": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them . What does the pronoun \"them\" refer to?\n(A) The oatmeal cookies\n(B) The chocolate chip cookies", "output": "(B)"}
+{"input": "Sam took French classes from Adam, because he was eager to speak it fluently. What does the pronoun \"he\" refer to?\n(A) Sam\n(B) Adam", "output": "(A)"}
+{"input": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt. What does the pronoun \"He\" refer to?\n(A) Bob\n(B) Charlie", "output": "(A)"}
+{"input": "Tom gave Ralph a lift to school so he wouldn't have to walk. What does the pronoun \"he\" refer to?\n(A) Tom\n(B) Ralph", "output": "(B)"}
+{"input": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary. What does the pronoun \"they\" refer to?\n(A) The ankles\n(B) The crutches", "output": "(B)"}
+{"input": "Ann asked Mary what time the library closes, but she had forgotten. What does the pronoun \"she\" refer to?\n(A) Ann\n(B) Mary", "output": "(B)"}
+{"input": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone. What does the pronoun \"it\" refer to?\n(A) The sun\n(B) The cloud", "output": "(B)"}
+{"input": "At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid. What does the pronoun \"they\" refer to?\n(A) the judges\n(B) the chatbots", "output": "(A)"}
+{"input": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed. What does the pronoun \"He\" refer to?\n(A) John\n(B) The juggler", "output": "(A)"}
+{"input": "George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it. What does the pronoun \"he\" refer to?\n(A) George\n(B) Eric", "output": "(A)"}
+{"input": "Steve follows Fred's example in everything. He admires him hugely. What does the pronoun \"He\" refer to?\n(A) Steve\n(B) Fred", "output": "(A)"}
+{"input": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down. What does the pronoun \"it\" refer to?\n(A) The sand castle\n(B) The flag", "output": "(B)"}
+{"input": "The older students were bullying the younger ones, so we rescued them . What does the pronoun \"them\" refer to?\n(A) The older students\n(B) The younger students", "output": "(B)"}
+{"input": "Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man. What does the pronoun \"He\" refer to?\n(A) Fred\n(B) My great-grandfather", "output": "(B)"}
+{"input": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. What does the pronoun \"they\" refer to?\n(A) The shepherds\n(B) The sheep", "output": "(A)"}
+{"input": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard. What does the pronoun \"she\" refer to?\n(A) Anna\n(B) Lucy", "output": "(B)"}
+{"input": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out. What does the pronoun \"it\" refer to?\n(A) The sun\n(B) The cloud", "output": "(A)"}
+{"input": "The man lifted the boy onto his bunk bed. What does the pronoun \"his\" refer to?\n(A) The man\n(B) The boy", "output": "(B)"}
+{"input": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed. What does the pronoun \"it\" refer to?\n(A) The tree\n(B) The roof", "output": "(A)"}
+{"input": "The painting in Mark's living room shows an oak tree. It is to the right of a house. What does the pronoun \"It\" refer to?\n(A) The painting\n(B) The oak tree", "output": "(B)"}
+{"input": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee. What does the pronoun \"it\" refer to?\n(A) The pen\n(B) The coffee", "output": "(A)"}
+{"input": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce. What does the pronoun \"it\" refer to?\n(A) Terpsichore\n(B) Tina", "output": "(A)"}
+{"input": "As Andrea in the crop duster passed over Susan, she could see the landing gear. What does the pronoun \"she\" refer to?\n(A) Andrea\n(B) Susan", "output": "(B)"}
+{"input": "Jim yelled at Kevin because he was so upset. What does the pronoun \"he\" refer to?\n(A) Jim\n(B) Kevin", "output": "(A)"}
+{"input": "The trophy doesn't fit into the brown suitcase because it is too large. What does the pronoun \"it\" refer to?\n(A) the trophy\n(B) the suitcase", "output": "(A)"}
+{"input": "Jane knocked on Susan's door but she did not answer. What does the pronoun \"she\" refer to?\n(A) Jane\n(B) Susan", "output": "(B)"}
+{"input": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost. What does the pronoun \"he\" refer to?\n(A) Bob\n(B) Adam", "output": "(B)"}
+{"input": "Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska. What does the pronoun \"they\" refer to?\n(A) Fred and Alice\n(B) coats", "output": "(B)"}
+{"input": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out. What does the pronoun \"it\" refer to?\n(A) The key\n(B) The chewing gum", "output": "(B)"}
+{"input": "They broadcast an announcement, but a subway came into the station and I couldn't hear it . What does the pronoun \"it\" refer to?\n(A) The announcement\n(B) The subway", "output": "(A)"}
+{"input": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier. What does the pronoun \"he\" refer to?\n(A) Jackson\n(B) Arnold", "output": "(B)"}
+{"input": "This book introduced Shakespeare to Goethe; it was a fine selection of his writing. What does the pronoun \"his\" refer to?\n(A) Shakespeare\n(B) Goethe", "output": "(A)"}
+{"input": "Jane knocked on Susan's door, but there was no answer. She was out. What does the pronoun \"She\" refer to?\n(A) Jane\n(B) Susan", "output": "(B)"}
+{"input": "Anna did a lot better than her good friend Lucy on the test because she had studied so hard. What does the pronoun \"she\" refer to?\n(A) Anna\n(B) Lucy", "output": "(A)"}
+{"input": "John was doing research in the library when he heard a man humming and whistling. He was very annoying. What does the pronoun \"He\" refer to?\n(A) John\n(B) The man", "output": "(B)"}
+{"input": "Dan had to stop Bill from toying with the injured bird. He is very cruel. What does the pronoun \"He\" refer to?\n(A) Dan\n(B) Bill", "output": "(B)"}
+{"input": "The cat was lying by the mouse hole waiting for the mouse, but it was too cautious. What does the pronoun \"it\" refer to?\n(A) The cat\n(B) The mouse", "output": "(B)"}
+{"input": "The man couldn't lift his son because he was so weak. What does the pronoun \"he\" refer to?\n(A) The man\n(B) The son", "output": "(A)"}
+{"input": "I used an old rag to clean the knife, and then I put it in the trash. What does the pronoun \"it\" refer to?\n(A) The rag\n(B) The knife", "output": "(A)"}
+{"input": "Bill passed the gameboy to John because his turn was over. What does the pronoun \"his\" refer to?\n(A) Bill\n(B) John", "output": "(A)"}
+{"input": "The drain is clogged with hair. It has to be cleaned. What does the pronoun \"It\" refer to?\n(A) The drain\n(B) The hair", "output": "(A)"}
+{"input": "The sculpture rolled off the shelf because it wasn't anchored. What does the pronoun \"it\" refer to?\n(A) The sculpture\n(B) The shelf", "output": "(A)"}
+{"input": "Joe paid the detective after he received the final report on the case. What does the pronoun \"he\" refer to?\n(A) Joe\n(B) the detective", "output": "(A)"}
+{"input": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely. What does the pronoun \"she\" refer to?\n(A) Alice\n(B) Alice's daughter", "output": "(B)"}
+{"input": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical. What does the pronoun \"He\" refer to?\n(A) Mark\n(B) Pete", "output": "(B)"}
+{"input": "Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday. What does the pronoun \"it\" refer to?\n(A) The old house\n(B) The new house", "output": "(B)"}
+{"input": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker. What does the pronoun \"his\" refer to?\n(A) Dan\n(B) Bill", "output": "(B)"}
+{"input": "Sam took French classes from Adam, because he was known to speak it fluently. What does the pronoun \"he\" refer to?\n(A) Sam\n(B) Adam", "output": "(B)"}
+{"input": "Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work. What does the pronoun \"it\" refer to?\n(A) The book\n(B) The article", "output": "(A)"}
+{"input": "Emma did not pass the ball to Janie although she was open. What does the pronoun \"she\" refer to?\n(A) Emma\n(B) Janie", "output": "(B)"}
+{"input": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot. What does the pronoun \"it\" refer to?\n(A) The dog\n(B) The spot under the tree", "output": "(A)"}
+{"input": "In the middle of the outdoor concert, the rain started falling, but it continued until 10. What does the pronoun \"it\" refer to?\n(A) The concert\n(B) The rain", "output": "(A)"}
+{"input": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them . What does the pronoun \"them\" refer to?\n(A) copies of the newsletter\n(B) chairs", "output": "(B)"}
+{"input": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look. What does the pronoun \"him\" refer to?\n(A) Tommy\n(B) Timmy", "output": "(A)"}
+{"input": "I put the cake away in the refrigerator. It has a lot of butter in it. What does the pronoun \"It\" refer to?\n(A) The cake\n(B) The refrigerator", "output": "(A)"}
+{"input": "The fish ate the worm. It was hungry. What does the pronoun \"It\" refer to?\n(A) The fish\n(B) The worm", "output": "(A)"}
+{"input": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill. What does the pronoun \"He\" refer to?\n(A) Bob\n(B) Carl", "output": "(A)"}
+{"input": "Pete envies Martin although he is very successful. What does the pronoun \"he\" refer to?\n(A) Pete\n(B) Martin", "output": "(A)"}
+{"input": "The table won't fit through the doorway because it is too narrow. What does the pronoun \"it\" refer to?\n(A) The table\n(B) The doorway", "output": "(B)"}
+{"input": "Patting her back, the woman smiled at the girl. What does the pronoun \"her\" refer to?\n(A) The woman\n(B) The girl", "output": "(B)"}
+{"input": "In the middle of the outdoor concert, the rain started falling, and it continued until 10. What does the pronoun \"it\" refer to?\n(A) The concert\n(B) The rain", "output": "(B)"}
+{"input": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired. What does the pronoun \"it\" refer to?\n(A) The tree\n(B) The roof", "output": "(B)"}
+{"input": "The city councilmen refused the demonstrators a permit because they advocated violence. What does the pronoun \"they\" refer to?\n(A) The city councilmen\n(B) The demonstrators", "output": "(B)"}
+{"input": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks. What does the pronoun \"They\" refer to?\n(A) Archaeologists\n(B) Prehistoric humans", "output": "(B)"}
+{"input": "Madonna fired her trainer because she couldn't stand her boyfriend. What does the pronoun \"she\" refer to?\n(A) Madonna\n(B) The trainer", "output": "(A)"}
+{"input": "Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska. What does the pronoun \"they\" refer to?\n(A) Fred and Alice\n(B) coats", "output": "(A)"}
+{"input": "Kirilov ceded the presidency to Shatov because he was more popular. What does the pronoun \"he\" refer to?\n(A) Kirilov\n(B) Shatov", "output": "(B)"}
+{"input": "Jane knocked on Susan's door, but there was no answer. She was disappointed. What does the pronoun \"She\" refer to?\n(A) Jane\n(B) Susan", "output": "(A)"}
+{"input": "John couldn't see the stage with Billy in front of him because he is so short. What does the pronoun \"he\" refer to?\n(A) John\n(B) Billy", "output": "(A)"}
+{"input": "The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time. What does the pronoun \"They\" refer to?\n(A) The journalists\n(B) The stars", "output": "(B)"}
+{"input": "The foxes are getting in at night and attacking the chickens. They have gotten very bold. What does the pronoun \"They\" refer to?\n(A) The foxes\n(B) The chickens", "output": "(A)"}
+{"input": "The drain is clogged with hair. It has to be removed. What does the pronoun \"It\" refer to?\n(A) The drain\n(B) The hair", "output": "(B)"}
+{"input": "Joe paid the detective after he delivered the final report on the case. What does the pronoun \"he\" refer to?\n(A) Joe\n(B) the detective", "output": "(B)"}
