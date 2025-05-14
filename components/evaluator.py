@@ -6,10 +6,10 @@ import asyncio
 import random
 from typing import Any, Dict
 
-from metagpt.ext.spo.prompts.evaluate_prompt import EVALUATE_PROMPT
-from metagpt.ext.spo.utils import load
-from metagpt.ext.spo.utils.llm_client import SPO_LLM, RequestType, extract_content
-from metagpt.logs import logger
+from prompts.evaluate_prompt import EVALUATE_PROMPT
+from utils import load
+from utils.llm_client import SPO_LLM, RequestType, extract_content
+from loguru import logger
 
 
 class QuickExecute:

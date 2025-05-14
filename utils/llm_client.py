@@ -2,10 +2,8 @@ import asyncio
 import re
 from enum import Enum
 from typing import Any, List, Optional
-
-from metagpt.configs.models_config import ModelsConfig
-from metagpt.llm import LLM
-from metagpt.logs import logger
+from llm.async_llm import AsyncLLM, LLMsConfig
+from loguru import logger
 
 
 class RequestType(Enum):
@@ -23,9 +21,9 @@ class SPO_LLM:
         evaluate_kwargs: Optional[dict] = None,
         execute_kwargs: Optional[dict] = None,
     ) -> None:
-        self.evaluate_llm = LLM(llm_config=self._load_llm_config(evaluate_kwargs))
-        self.optimize_llm = LLM(llm_config=self._load_llm_config(optimize_kwargs))
-        self.execute_llm = LLM(llm_config=self._load_llm_config(execute_kwargs))
+        self.evaluate_llm = AsyncLLM(config=self._load_llm_config(evaluate_kwargs))
+        self.optimize_llm = AsyncLLM(config=self._load_llm_config(optimize_kwargs))
+        self.execute_llm = AsyncLLM(config=self._load_llm_config(execute_kwargs))
 
     def _load_llm_config(self, kwargs: dict) -> Any:
         model = kwargs.get("model")
@@ -33,11 +31,11 @@ class SPO_LLM:
             raise ValueError("'model' parameter is required")
 
         try:
-            model_config = ModelsConfig.default().get("gpt-4o-mini")
+            model_config = LLMsConfig.default().get("gpt-4o-mini")
             if model_config is None:
                 raise ValueError(f"Model gpt-4o-mini not found in configuration")
 
-            config = model_config.model_copy()
+            config = model_config
 
             for key, value in kwargs.items():
                 if hasattr(config, key):
@@ -61,8 +59,8 @@ class SPO_LLM:
         if not llm:
             raise ValueError(f"Invalid request type. Valid types: {', '.join([t.value for t in RequestType])}")
 
-        response = await llm.acompletion(messages)
-        return response.choices[0].message.content
+        response = await llm(messages)
+        return response
 
     @classmethod
     def initialize(cls, optimize_kwargs: dict, evaluate_kwargs: dict, execute_kwargs: dict) -> None:

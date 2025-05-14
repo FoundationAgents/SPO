@@ -7,13 +7,13 @@ import asyncio
 from pathlib import Path
 from typing import List
 
-from metagpt.ext.spo.prompts.optimize_prompt import PROMPT_OPTIMIZE_PROMPT
-from metagpt.ext.spo.utils import load
-from metagpt.ext.spo.utils.data_utils import DataUtils
-from metagpt.ext.spo.utils.evaluation_utils import EvaluationUtils
-from metagpt.ext.spo.utils.llm_client import SPO_LLM, RequestType, extract_content
-from metagpt.ext.spo.utils.prompt_utils import PromptUtils
-from metagpt.logs import logger
+from prompts.optimize_prompt import PROMPT_OPTIMIZE_PROMPT
+from utils import load
+from utils.data_utils import DataUtils
+from utils.evaluation_utils import EvaluationUtils
+from utils.llm_client import SPO_LLM, RequestType, extract_content
+from utils.prompt_utils import PromptUtils
+from loguru import logger
 
 
 class PromptOptimizer:

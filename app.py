@@ -6,9 +6,8 @@ import streamlit as st
 import yaml
 from loguru import logger as _logger
 
-from metagpt.const import METAGPT_ROOT
-from metagpt.ext.spo.components.optimizer import PromptOptimizer
-from metagpt.ext.spo.utils.llm_client import SPO_LLM, RequestType
+from components.optimizer import PromptOptimizer
+from utils.llm_client import SPO_LLM, RequestType
 
 
 def load_yaml_template(template_path: Path) -> Dict:
@@ -195,7 +194,7 @@ def main():
             format="{time:YYYY-MM-DD HH:mm:ss.SSS} | {level: <8} | {name}:{function}:{line} - {message}",
             filter=prompt_optimizer_filter,
         )
-        _logger.add(METAGPT_ROOT / "logs/{time:YYYYMMDD}.txt", level="DEBUG")
+        _logger.add("logs/{time:YYYYMMDD}.txt", level="DEBUG")
 
         # Start optimization button
         if st.button("Start Optimization"):

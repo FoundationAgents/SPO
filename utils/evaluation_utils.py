@@ -3,8 +3,8 @@ from typing import Any, List, Optional, Tuple
 
 import tiktoken
 
-from metagpt.ext.spo.components.evaluator import QuickEvaluate, QuickExecute
-from metagpt.logs import logger
+from components.evaluator import QuickEvaluate, QuickExecute
+from loguru import logger
 
 EVALUATION_REPETITION = 4
 

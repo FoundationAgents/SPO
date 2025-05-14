@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from metagpt.logs import logger
+from loguru import logger
 
 
 class PromptUtils:
