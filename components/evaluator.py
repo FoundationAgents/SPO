@@ -51,8 +51,8 @@ class QuickEvaluate:
         """
         Evaluate two samples and return the evaluation result
         Returns:
-            True: First sample is better
-            False: Second sample is better  
+            True: New sample is better
+            False: Old sample is better
             None: Neutral/Unable to judge/Evaluation failed
         """
         _, requirement, qa, _ = load.load_meta_data()
@@ -88,9 +88,9 @@ class QuickEvaluate:
             choose = choose.strip().upper()
             
             # Check if it's A or B
-            if choose == "A":
+            if choose == "B":
                 return True if not is_swapped else False
-            elif choose == "B":
+            elif choose == "A":
                 return False if not is_swapped else True
             else:
                 # Neither A nor B, return neutral value
