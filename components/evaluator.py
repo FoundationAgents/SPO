@@ -88,9 +88,9 @@ class QuickEvaluate:
             choose = choose.strip().upper()
             
             # Check if it's A or B
-            if choose == "A":
+            if choose == "B":
                 return True if not is_swapped else False
-            elif choose == "B":
+            elif choose == "A":
                 return False if not is_swapped else True
             else:
                 # Neither A nor B, return neutral value
