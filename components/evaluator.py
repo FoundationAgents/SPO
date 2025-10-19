@@ -51,8 +51,8 @@ class QuickEvaluate:
         """
         Evaluate two samples and return the evaluation result
         Returns:
-            True: First sample is better
-            False: Second sample is better  
+            True: New sample is better
+            False: Old sample is better
             None: Neutral/Unable to judge/Evaluation failed
         """
         _, requirement, qa, _ = load.load_meta_data()
